@@ -1,6 +1,5 @@
 - 👋 Hi, I’m ethan haastrup
-- 👀 I’m interested in ...
-- sports, anime, video games
+- 👀 I’m interested in Programming, sports, fitness, video games
 - 🌱 I’m currently learning ... java, web dev and back end development
   
 ### 🧰 Languages and Tools
